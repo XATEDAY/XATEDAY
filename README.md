@@ -9,14 +9,14 @@
 <br/>
 
 <div align="center">
- 
+  <img align="right" width="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
   🎓 Actualmente me encuentro cursando **mis estudios**.
- 
+
   🌱 Actualmente estoy aprendiendo **Docker, Git y Spring Boot**
 
   ⚡ Dato curioso **Tu'burni (árabe): Te quiero tanto que espero morir antes que tú para no vivir sin ti.**
-
- </div>
+</div>
 
  <hr/>
  
