@@ -28,5 +28,15 @@
 
 <br/>
 
+<div align="center">
+  <h2>🐍 ESTADISTICAS 🐍</h2>
+  <br>
+  <img 
+    alt="Serpiente comiendo mis contribuciones" 
+    src="https://raw.githubusercontent.com/XATEDAY/XATEDAY/output/github-contribution-grid-snake-dark.svg" 
+  />
+  <br/><br/><br/>
+</div>
+
 
 
