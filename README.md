@@ -32,7 +32,11 @@
 <h2 align="center">⚡ Mis Estadísticas ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://ghchart.rshah.org/2ea44f/XATEDAY" alt="Calendario de Contribuciones de XATEDAY" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XATEDAY&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XATEDAY&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 <br/>
 
