@@ -32,7 +32,7 @@
 <h2 align="center">⚡ Mis Estadísticas ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XATEDAY&theme=react-dark&hide_border=true" alt="Grafica de Contribuciones" />
+  <img src="https://ghchart.rshah.org/2ea44f/XATEDAY" alt="Calendario de Contribuciones de XATEDAY" />
 </div>
 <br/>
 
