@@ -27,6 +27,12 @@
 </div>
 
 <br/>
+
 <hr/>
+<h2 align="center">⚡ Mis Estadísticas ⚡</h2>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=XATEDAY&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=XATEDAY&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10" alt="top langs" />
+</div>
 
 
