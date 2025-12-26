@@ -17,12 +17,7 @@
 
   ⚡ **At the end of the world
         or the last thing i see
-        you are
-        never coming home
-        never coming home
-        should i
-        and all the things that you never ever told me
-        and all the smiles that are ever ever...**
+        you are**
 
 </div>
 
