@@ -15,7 +15,14 @@
 
   🌱 Actualmente estoy aprendiendo **Docker, Git y Spring Boot**
 
-  ⚡ Dato curioso **Tu'burni (árabe): Te quiero tanto que espero morir antes que tú para no vivir sin ti.**
+  ⚡ **At the end of the world
+        or the last thing i see
+        you are
+        never coming home
+        never coming home
+        should i
+        and all the things that you never ever told me
+        and all the smiles that are ever ever...**
 
 </div>
 
