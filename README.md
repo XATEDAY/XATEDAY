@@ -15,7 +15,7 @@
 
   🌱 Actualmente estoy aprendiendo **Docker, Git y Spring Boot**
 
-  ⚡ **IS THIS LOVE - WHITESNAKE **
+  ⚡ **IS THIS LOVE - WHITESNAKE**
 
 </div>
 
