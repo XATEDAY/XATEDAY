@@ -15,7 +15,7 @@
 
   🌱 Actualmente estoy aprendiendo **Docker, Git y Spring Boot**
 
-  ⚡ **CREEP - stone temple pilts (MTV unplugged 93)**
+  ⚡ **CREEP - stone temple pilots (MTV unplugged 93)**
 
 </div>
 
